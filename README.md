@@ -1,4 +1,4 @@
-# My entire portfiloi as QA Manual
+# My entire portfolio as QA Manual
 
 **Projects**
 1. [TESTING MODULE INTERNSHIP - entry testing module for the personal account of a candidate for internship selection at SoftRyzen](https://testing-module-internship.vercel.app/login)
